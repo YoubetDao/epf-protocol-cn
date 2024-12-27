@@ -4,14 +4,35 @@
 
 可以通过此链接访问官方 wiki [Protocol Studies Wiki](https://epf.wiki/#/README?id=protocol-wiki)
 
-## 协议学习 Wiki (Protocol Studies Wiki)
+## How to use
 
-您可以直接访问翻译后的 Wiki，学习以太坊协议的技术细节和核心原理：
+### 本地编译
+1. download first
+```bash
+git clone git@github.com:YoubetDao/epf-protocol-cn.git
+```
+2. 基于 `mdbook` 工具本地启动服务查看效果
+```bash
+cd epf-protocol-cn
+mdbook serve 
+```
+ ![mdbook](https://3bcaf57.webp.li/myblog/mdbook1.png)
+ 
+注:  `mdbook` 是基于 Rust 的一个使用`Markdown` 创建图书的命令行工具, 需要本地先安装命令, 详情参考官方文档: [mdbook](https://rust-lang.github.io/mdBook/)
+ ```bash
+ cargo install mdbook
+ ```
+### 线上阅读
+或者您也可以直接访问翻译后的 Wiki，学习以太坊协议的技术细节和核心原理：
 
 - [中文 Wiki 地址](https://youbetdao.github.io/epf-protocol-cn/)
 - 或前往 `/src` 查看翻译源文件。
 
+
+
 欢迎加入我们，探索以太坊协议并参与贡献！
+
+
 
 - **Telegram 社区**：[加入讨论](https://t.me/+_a-io1KqMIc5ZjQ9)
 
