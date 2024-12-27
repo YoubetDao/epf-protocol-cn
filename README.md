@@ -4,7 +4,7 @@
 
 可以通过此链接访问官方 wiki [Protocol Studies Wiki](https://epf.wiki/#/README?id=protocol-wiki)
 
-## How to use
+## 如何阅读本书？
 
 ### 本地编译
 1. download first
@@ -22,6 +22,7 @@ mdbook serve
  ```bash
  cargo install mdbook
  ```
+
 ### 线上阅读
 或者您也可以直接访问翻译后的 Wiki，学习以太坊协议的技术细节和核心原理：
 
@@ -29,16 +30,11 @@ mdbook serve
 - 或前往 `/src` 查看翻译源文件。
 
 
-
-欢迎加入我们，探索以太坊协议并参与贡献！
-
-
-
-- **Telegram 社区**：[加入讨论](https://t.me/+_a-io1KqMIc5ZjQ9)
-
 ## 如何参与？
 
-我们欢迎任何对以太坊协议感兴趣的开发者或研究人员参与翻译和内容扩展工作。
+我们欢迎任何对以太坊协议感兴趣的开发者或研究人员参与翻译和内容扩展工作。让我们一起探索以太坊协议的奥妙吧！
+
+- **Telegram 社区**：[加入讨论](https://t.me/+_a-io1KqMIc5ZjQ9)
 
 ## 关于 Youbet Study Group
 
