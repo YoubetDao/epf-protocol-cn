@@ -1,9 +1,9 @@
-# [Ethereum Protocol Fellowship Study Group 中文版 (EPFsg-CN)](https://youbetdao.github.io/epf-protocol-cn/)
+# Ethereum Protocol Fellowship Study Group 中文版 (EPFsg-CN)
 
 本仓库对 **[EPF 学习小组 (Ethereum Protocol Fellowship Study Group)](https://github.com/eth-protocol-fellows/protocol-studies)** 进行了中文翻译和内容扩展，旨在帮助更多中文开发者深入理解以太坊核心协议。
 
-可以通过此[链接](https://youbetdao.github.io/epf-protocol-cn/)访问中文版 Wiki
-可以通过此[链接](https://epf.wiki/#/README?id=protocol-wiki)访问官方版 Wiki 
+- 可以通过此[链接](https://youbetdao.github.io/epf-protocol-cn/)访问中文版 Wiki
+- 可以通过此[链接](https://epf.wiki/#/README?id=protocol-wiki)访问官方版 Wiki 
 
 ## 如何阅读本书？
 
