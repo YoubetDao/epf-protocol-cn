@@ -8,3 +8,4 @@
 - [交易剖析](./transaction.md)
 - [数据结构](./data-structures.md)
 - [RLP](./RLP.md)
+- [区块构建](./block-building.md)
