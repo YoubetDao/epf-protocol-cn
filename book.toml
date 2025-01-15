@@ -7,9 +7,12 @@ title = "youbet-tutorial"
 
 [output.html]
 additional-css = ["custom.css"]
-additional-js = ["custom.js"]
+additional-js = ["custom.js", "mermaid.min.js", "mermaid-init.js"]
 git-repository-url = "https://github.com/youbetdao/epf-protocol-cn/"
 git-repository-icon = "fa-github"
 
 [preprocessor.katex]
 after = ["links"]
+
+[preprocessor.mermaid]
+command = "mdbook-mermaid"
